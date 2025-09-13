@@ -118,7 +118,8 @@ print(traversedpath)
 ```
 
 ### Output:
-![alt text](<Screenshot 2025-09-11 135513.png>)
+<img width="600" height="569" alt="image" src="https://github.com/user-attachments/assets/e6f4dce2-885b-404d-bc3e-4397720b9ea2" />
+
 
 <hr>
 <h3>Result:</h3>
